@@ -61,4 +61,4 @@ python analyzer.py --log sample_logs/auth.log --threshold 5 --window 120
 Sample logs come from [public dataset name, e.g., Loghub] or were generated on my own virtual machine. No real company or personal data is included.
 
 ## Author
-Kashif Raza | [LinkedIn link] | [email]
+Kashif Raza | [kashifraza31703@gmail.com]
